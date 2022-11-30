@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Questao2": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "nativeDebugging": true
+    }
+  }
+}
